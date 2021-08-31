@@ -23,7 +23,7 @@
 <body>
 <nav class="navbar navbar-dark bg-dark">
     <a class="navbar-brand" href="#">
-        <img src="/home/reinaldo/Desktop/Confrat/06.png"
+        <img src="img/06_black.png"
              width="50" height="50" class="d-inline-block align-top" alt="">
         Confrat Z6
     </a>
